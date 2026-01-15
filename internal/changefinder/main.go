@@ -171,3 +171,4 @@ func touchModule(root, mod string) error {
 	log.Printf("Module touched: %s", mod)
 	return nil
 }
+https://github.com/google/generative-ai-go.git
